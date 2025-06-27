@@ -33,10 +33,15 @@ Personalized federated learning (PFL) is a new paradigm to address the statistic
 
 ## Baselines
 **FedAvg**:[Communication-Efficient Learning of Deep Networks from Decentralized Data](https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
+
 **FedCR**:[Communication-Efficient Learning of Deep Networks from Decentralized Data](https://proceedings.mlr.press/v202/zhang23w/zhang23w.pdf)
+
 **FedALA**:[FedALA: Adaptive Local Aggregation for Personalized Federated Learning](https://doi.org/10.1609/aaai.v37i9.26330f)
+
 **FedSAM/MoFedSAM**:[Generalized Federated Learning via Sharpness Aware Minimization](https://proceedings.mlr.press/v162/qu22a/qu22a.pdf)
+
 **FedSpeed**:[FedSpeed: Larger Local Interval, Less Communication Round, and Higher Generalization Accuracy](https://openreview.net/pdf?id=bZjxxYURKT)
+
 **FedSMOO**:[Dynamic Regularized Sharpness Aware Minimization in Federated Learning: Approaching Global Consistency and Smooth Landscape](https://proceedings.mlr.press/v202/sun23h/sun23h.pdf)
 
 ## Quick Start
