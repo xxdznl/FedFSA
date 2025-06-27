@@ -15,8 +15,7 @@ _**Xinda Xing\*<sup>1</sup>, Qiugang Zhan\*<sup>2 </sup>, Xiurui Xie†<sup>1</s
 <!-- **Affiliations:** -->
 
 _<sup>1</sup> University of Electronic Science and Technology of China,
-<sup>2</sup> Southwest University of Finance and Economics,
-<sup>3</sup> Sun Yat-sen University._
+<sup>2</sup> Southwest University of Finance and Economics,<sup>3</sup> Sun Yat-sen University._
 </div>
 
 ## Contents
