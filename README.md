@@ -1,20 +1,18 @@
 <p align="center" width="100%">
 </p>
- 
+
 <div id="top" align="center">
 
 Flexible Sharpness-Aware Personalized Federated Learning (AAAI 2025)
 -----------------------------
-- <a href="https://doi.org/10.1609/aaai.v39i20.35475"> Paper </a> 
+- <a href="https://doi.org/10.1609/aaai.v39i20.35475">Paper </a> 
 - [Poster PDF](./FedFSAPoster.pdf)
 
 <!-- **Authors:** -->
 
-_**Xinda Xing*<sup>1</sup>, Qiugang Zhan*<sup>2 </sup>, Xiurui Xie†<sup>1</sup>, Yuning Yang<sup>1</sup>, Qiang Wang<sup>3</sup>, Guisong Liu†<sup>2</sup>**_
-
+_**Xinda Xing\*<sup>1</sup>, Qiugang Zhan\*<sup>2 </sup>, Xiurui Xie†<sup>1</sup>, Yuning Yang<sup>1</sup>, Qiang Wang<sup>3</sup>, Guisong Liu†**<sup>2</sup>_
 
 <!-- **Affiliations:** -->
-
 
 _<sup>1</sup> University of Electronic Science and Technology of China,
 <sup>2</sup> Southwest University of Finance and Economics,
