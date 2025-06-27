@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 <p align="center" width="100%">
 </p>
-
+ 
 <div id="top" align="center">
 
 Flexible Sharpness-Aware Personalized Federated Learning (AAAI 2025)
